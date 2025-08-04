@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace proyecto.share
 {
     public class Class1
+
     {
     }
 }
